@@ -703,7 +703,7 @@ while True:
               elif resp2 == 2:
                   pontos += 0
                   break
-              elif resp2 == 4:
+              elif resp2 == 3:
                   pontos += 1
                   break
               else:
